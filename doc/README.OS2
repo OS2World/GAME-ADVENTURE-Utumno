@@ -1,0 +1,38 @@
+Hello!
+
+This port was done by Dave Bacher, best known for the OS/2 port of
+vMac.  This game seems as stable as the Windows or DOS version.  The
+original author of the game is looking for someone to take over the
+development -- I am seriously considering this, or I may just do my
+own game instead (I'll do my own eventually either way).
+
+Issues:
+  1.  Compiled with EMX, not with IBM C++.  This will be fixed soon,
+      I was concentrating on getting it working first.
+
+  2.  There are a lot of repeated graphics.  This is not my fault,
+      it is merely a statement of fact.
+
+  3.  The game runs a little faster than the DOS and Windows version.
+      For whatever reason, when I tried what the Windows version did
+      for the timer, the game paused totally.  The time value is close,
+      and you can adjust it anyway.
+
+  4.  No sound.  The original doesn't have it anyway.  The only sound
+      you can expect is a beep.  That's all that was provided for in
+      this release of the software.
+
+  5.  As stated above, it's basicly a dead project.  This port was done
+      mostly because I needed to play with the GPI some more.
+
+  6.  The game sets the palette more often than it should.  Since it only
+      sets the palette at the begining of the game, it should be OK, but
+      it really probably ought to be optimized a bit.
+
+Anyway, my e-Mail is dbacher@ibm.net.  If you find a new issue, let me
+know.  Since the project is pretty much dead (and seems to have been
+for a while), I'm not likely to do alot with it unless I take over the
+main version.
+
+   Dave Bacher
+

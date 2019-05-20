@@ -1,0 +1,29 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: UTUM10A5.ZIP
+       Short Description: Utumno v1.0a5 for OS/2
+        Long Description: This is a real time Isometric view hack and slash game derived from
+                          Angaband.  You must be running at higher than 640x480 to see the
+                          entire window.
+
+      Proposed directory
+           for placement: /pub/os2/games/rogue
+
+               Your name:  Dave Bacher
+           Email address:  dbacher@ibm.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL:  http://www.mit.edu/~craighea/utumno/
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 v3/v4
+ Additional requirements: 256 colors, 800x600 screen (game display area is 640x480), EMX Runtime
+                Replaces: (none)
+
+
+
+

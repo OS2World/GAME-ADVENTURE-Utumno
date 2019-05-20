@@ -1,0 +1,5 @@
+NAME            STDPRGM    WINDOWAPI
+
+DESCRIPTION    'Utumno for OS/2'
+HEAPSIZE        65536
+STACKSIZE       65536
